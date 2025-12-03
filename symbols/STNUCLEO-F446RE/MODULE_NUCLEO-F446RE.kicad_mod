@@ -1,5 +1,5 @@
 
-(footprint MODULE_NUCLEO-F446RE (layer F.Cu) (tedit 69308FBD)
+(footprint MODULE_NUCLEO-F446RE (layer F.Cu) (tedit 693095C7)
   (descr "")
   (fp_text reference REF** (at -31.825 -42.635 0) (layer F.SilkS)
     (effects (font (size 1.0 1.0) (thickness 0.15)))
