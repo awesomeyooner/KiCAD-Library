@@ -357,7 +357,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 1.778 2.794 0)
+			(at 0 11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -365,7 +365,7 @@
 			)
 		)
 		(property "Value" "Pololu_Breakout_DRV8874"
-			(at 2.286 -20.574 0)
+			(at -0.254 -11.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -382,7 +382,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.pololu.com/product/4035"
-			(at 0 0 0)
+			(at -2.54 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -391,7 +391,7 @@
 			)
 		)
 		(property "Description" "Pololu Breakout board for TI DRV8874 DC Motor driver"
-			(at 0 0 0)
+			(at -2.54 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -401,8 +401,8 @@
 		)
 		(symbol "Pololu_Breakout_DRV8874_1_1"
 			(rectangle
-				(start -5.08 1.27)
-				(end 10.16 -19.05)
+				(start -7.62 10.16)
+				(end 7.62 -10.16)
 				(stroke
 					(width 0)
 					(type solid)
@@ -412,7 +412,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -7.62 -1.27 0)
+				(at -10.16 7.62 0)
 				(length 2.54)
 				(name "VM"
 					(effects
@@ -430,7 +430,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -7.62 -3.81 0)
+				(at -10.16 5.08 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -448,7 +448,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -6.35 0)
+				(at -10.16 2.54 0)
 				(length 2.54)
 				(name "IN1"
 					(effects
@@ -466,7 +466,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -8.89 0)
+				(at -10.16 0 0)
 				(length 2.54)
 				(name "IN2"
 					(effects
@@ -484,7 +484,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -11.43 0)
+				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "PMODE"
 					(effects
@@ -502,7 +502,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -13.97 0)
+				(at -10.16 -5.08 0)
 				(length 2.54)
 				(name "SLEEP"
 					(effects
@@ -520,7 +520,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 -16.51 0)
+				(at -10.16 -7.62 0)
 				(length 2.54)
 				(name "VREF"
 					(effects
@@ -538,7 +538,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -1.27 180)
+				(at 10.16 7.62 180)
 				(length 2.54)
 				(name "VIN"
 					(effects
@@ -556,7 +556,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -3.81 180)
+				(at 10.16 5.08 180)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -574,7 +574,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 -6.35 180)
+				(at 10.16 2.54 180)
 				(length 2.54)
 				(name "OUT1"
 					(effects
@@ -592,7 +592,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 -8.89 180)
+				(at 10.16 0 180)
 				(length 2.54)
 				(name "OUT2"
 					(effects
@@ -610,7 +610,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -11.43 180)
+				(at 10.16 -2.54 180)
 				(length 2.54)
 				(name "IMODE"
 					(effects
@@ -628,7 +628,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -13.97 180)
+				(at 10.16 -5.08 180)
 				(length 2.54)
 				(name "FAULT"
 					(effects
@@ -646,7 +646,7 @@
 				)
 			)
 			(pin output line
-				(at 12.7 -16.51 180)
+				(at 10.16 -7.62 180)
 				(length 2.54)
 				(name "CS"
 					(effects
