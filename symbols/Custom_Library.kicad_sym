@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "AMS-OSRAM_AS5047P_Board"
+	(symbol "AMS-OSRAM_Breakout_AS5047P"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -14,7 +14,7 @@
 				)
 			)
 		)
-		(property "Value" "AMS-OSRAM_AS5047P_Board"
+		(property "Value" "AMS-OSRAM_Breakout_AS5047P"
 			(at -0.762 -18.542 0)
 			(effects
 				(font
@@ -49,7 +49,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "AMS-OSRAM_AS5047P_Board_1_1"
+		(symbol "AMS-OSRAM_Breakout_AS5047P_1_1"
 			(rectangle
 				(start -7.62 15.24)
 				(end 7.62 -16.51)
@@ -352,7 +352,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "Pololu_DRV8874_Board"
+	(symbol "Pololu_Breakout_DRV8874"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -364,7 +364,7 @@
 				)
 			)
 		)
-		(property "Value" "Pololu_DRV8874_Board"
+		(property "Value" "Pololu_Breakout_DRV8874"
 			(at 2.286 -20.574 0)
 			(effects
 				(font
@@ -399,7 +399,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "Pololu_DRV8874_Board_1_1"
+		(symbol "Pololu_Breakout_DRV8874_1_1"
 			(rectangle
 				(start -5.08 1.27)
 				(end 10.16 -19.05)
