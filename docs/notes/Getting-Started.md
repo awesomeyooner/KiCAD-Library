@@ -19,6 +19,7 @@ Collection of notes for designing and manufacturing PCBs!
 ## Glossary
 - [Guide to Manufacturing Your Designs](./Guide-to-Manufacturing.md)
 - [Notes about STM32](./Notes-on-STM32.md)
+- [Creating Symbols in KiCAD](./Creating-Symbols.md)
 
 ## Pictures
 
