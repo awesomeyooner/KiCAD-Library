@@ -1,4 +1,4 @@
-# PCB Design Notes
+# Getting Started with PCBs
 Collection of notes for designing and manufacturing PCBs!
 
 
@@ -17,8 +17,8 @@ Collection of notes for designing and manufacturing PCBs!
 - ESD Protection (For USB)
 
 ## Glossary
-- [Guide to Manufacturing Your Designs](./manufacturing.md)
-- [Notes about STM32](./stm32-notes.md)
+- [Guide to Manufacturing Your Designs](./Guide-to-Manufacturing.md)
+- [Notes about STM32](./Notes-on-STM32.md)
 
 ## Pictures
 
