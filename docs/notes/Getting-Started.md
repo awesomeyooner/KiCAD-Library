@@ -15,6 +15,7 @@ Collection of notes for designing and manufacturing PCBs!
 ## Concepts to Remember
 - Pi Filtering (Passive Power Filterting)
 - ESD Protection (For USB)
+- Ideal Diode Controller or Power Multiplexer (Used to control multiple power sources)
 
 ## Glossary
 - [Guide to Manufacturing Your Designs](./Guide-to-Manufacturing.md)
