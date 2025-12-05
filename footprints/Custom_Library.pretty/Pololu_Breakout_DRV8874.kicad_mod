@@ -1,0 +1,449 @@
+(footprint "Pololu_Breakout_DRV8874"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Pololu Breakout board for TI DRV8874 DC Motor driver")
+	(tags "motor")
+	(property "Reference" "Pololu_Breakout_DRV8874"
+		(at 0 -10 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bf10cec2-8a08-4218-b43f-8898b6dcf624")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Pololu_Breakout_DRV8874"
+		(at 0 10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c074016b-6386-4311-a0de-e95cfee2523b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.pololu.com/product/4035"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "250b511a-405f-4632-a623-eb833e310691")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Pololu Breakout board for TI DRV8874 DC Motor driver"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "506e932f-16ba-48c7-b97e-e0d2e0ec7870")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7.6 -8.89)
+		(end 7.6 -8.89)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2212ab73-9a6b-4514-8a77-e689f2e839a3")
+	)
+	(fp_line
+		(start -7.6 8.89)
+		(end -7.6 -8.89)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b49bf939-1ca8-4400-891d-56f07e8da3d8")
+	)
+	(fp_line
+		(start 7.6 -8.89)
+		(end 7.6 8.89)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d6a58a93-f2e1-4ab2-b969-e0cfa1663ef8")
+	)
+	(fp_line
+		(start 7.6 8.89)
+		(end -7.6 8.89)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d003cbb7-5adf-4d0d-967a-f06183b803f5")
+	)
+	(fp_text user "VIN"
+		(at 2.5 -7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0ff9d845-d35c-41be-86ff-130b2842d872")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "VM"
+		(at -5 -7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "291fe24f-b709-415f-ae10-65c6a5acdfda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OUT2"
+		(at 1.25 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3de01df7-902c-4613-9e8f-49813c9dee02")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OUT1"
+		(at 1.25 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "56385257-1102-42d9-955c-76cf23643a00")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "FAULT"
+		(at 0.75 5.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "58a59ad2-2b01-4456-b91d-6a00e2536ab6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "CS"
+		(at 3 8.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "86684740-31e9-478f-bddc-36eb9872ffd6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 2 -4.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8836bcee-0273-4d30-a95c-de241731124a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "SLEEP"
+		(at -5 5.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8c1711e2-80aa-492d-8eef-64dc8b3e48f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "VREF"
+		(at -5 8.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a6a72463-b53b-4c17-9e95-9dacd8e36f68")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at -5 -4.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b781d117-bb9f-4316-8a15-cab751b7bc5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "IN2"
+		(at -5 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c64042b0-d43b-4412-a190-173ac9e3beed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "IMODE"
+		(at 0.5 3.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "eee77193-4f52-40a1-8c87-021bcd04bdec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "PMODE"
+		(at -5 3.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f1d8845f-607f-4c2c-8a8c-8c8b02e567cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "IN1"
+		(at -5 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f25f521c-7bc9-4c07-95c5-33ad18a783c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 13 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "82731d94-5a47-4944-ba40-fb3b07e34eee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "2" thru_hole circle
+		(at -6.35 -7.63)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b2acc6b8-f437-4837-8cd1-cf58196dd30b")
+	)
+	(pad "3" thru_hole circle
+		(at 6.35 -7.63)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ce0c9565-3408-4e17-9a02-d814b697f750")
+	)
+	(pad "4" thru_hole rect
+		(at -6.35 -5.08)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b30b1ed1-a10e-447a-bed5-a26df0e05c7d")
+	)
+	(pad "5" thru_hole circle
+		(at -6.35 -2.54)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c85fee06-d830-4870-a714-f50a8aaffbad")
+	)
+	(pad "6" thru_hole circle
+		(at -6.35 0)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "563675f8-e41e-47b9-b2e1-bb03522b0686")
+	)
+	(pad "7" thru_hole circle
+		(at -6.35 2.54)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "13662152-b883-4b05-9d74-8ef3748e384d")
+	)
+	(pad "8" thru_hole circle
+		(at -6.35 5.08)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0669dde8-d8d7-43f7-8fa5-b16ec5ff9632")
+	)
+	(pad "9" thru_hole circle
+		(at -6.35 7.63)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7542773f-69f9-41f1-a516-a706224e3fb6")
+	)
+	(pad "10" thru_hole rect
+		(at 6.35 -5.08)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a8176e27-4bb9-45ef-a60d-92160033be4c")
+	)
+	(pad "11" thru_hole circle
+		(at 6.35 -2.54)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "805154e4-69da-4483-b11d-421d0a21a336")
+	)
+	(pad "12" thru_hole circle
+		(at 6.35 0)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ff05856c-0bde-4fd5-8715-b612924b95bd")
+	)
+	(pad "13" thru_hole circle
+		(at 6.35 2.54)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6a217efd-83e1-4494-8fc7-8bc52979536b")
+	)
+	(pad "14" thru_hole circle
+		(at 6.35 5.08)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "41843203-ed13-45ab-bb9d-5f0de24055b0")
+	)
+	(pad "15" thru_hole circle
+		(at 6.35 7.63)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4f015b32-1d62-4f99-befc-5db7a8bfd091")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.SilkS")
+		(uuid "303f3fb0-8407-4d2b-917a-f50fd6724ac2")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints not_allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -7.6 -8.89) (xy 7.6 -8.89) (xy 7.6 8.89) (xy -7.6 8.89)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "/home/dev/Documents/GitHub/KiCAD-Library/CAD/Pololu_Breakout_DRV8874.step"
+		(offset
+			(xyz -7.6 -8.89 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
