@@ -527,8 +527,8 @@
 		)
 		(symbol "NUCLEO-F446RE_1_0"
 			(rectangle
-				(start -17.78 -43.18)
-				(end 17.78 40.64)
+				(start -17.78 40.64)
+				(end 17.78 -43.18)
 				(stroke
 					(width 0.254)
 					(type default)
