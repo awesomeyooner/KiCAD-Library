@@ -8,7 +8,8 @@ Collection of notes for designing and manufacturing PCBs!
 - [Phils Lab - Vias](https://www.youtube.com/watch?v=WPT96w3eLAM)
 - [Rick Hartley - Achieving Proper Grounding](https://www.youtube.com/live/ySuUZEjARPY?si=63aBtPYANOEaag1a)
 
-- [Phils Lab - STM32 Design Process](https://youtu.be/aVUqaB0IMh4?si=K_qPz3_jFpqA3eQK)
+- [Phils Lab - STM32 Design Process 1 (new)](https://youtu.be/aVUqaB0IMh4?si=K_qPz3_jFpqA3eQK)
+- [Phils Lab - STM32 Design Process 2 (old)](https://www.youtube.com/watch?v=PMEpQZ90f34)
 - [Phils Lab - Hardware Design Process Part 1](https://youtu.be/O-zNn5k5Bn4?si=4gPntm-cLLqkONsD)
 - [Phils Lab - Hardware Design Process Part 2](https://youtu.be/igQWdVGZGpI?si=9dEOdYr-3kdBe49U)
 
