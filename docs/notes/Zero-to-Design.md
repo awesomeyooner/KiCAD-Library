@@ -6,10 +6,3 @@ This is a guide on how to get a fully designed PCB, starting from zero!
 Open KiCAD and yk create it 
 
 ## First Steps
-
-### Document your Schematic
-- Open the `Schematic Editor`
-
-- Top Left, Click `File`
-- Click `Page Settings...`
-- Fill in the rest!
