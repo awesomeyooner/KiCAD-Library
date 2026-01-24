@@ -17,6 +17,10 @@ Create a folder called `manufacturing` to put the BOM, CPL, and Gerbers in
 
 ### BOMs
 
+Click this icon to open the BOM edidtor
+
+![BOM-icon](../pics/BOM-icon.png)
+
 When using JLCPCB, use this order:
 >**NOTE** You could use DNP, or you could just delete all entries you don't want assembled
 
