@@ -21,6 +21,18 @@ Click this icon to open the BOM edidtor
 
 ![BOM-icon](../pics/BOM-icon.png)
 
+Make sure that all of these are created and ticked
+
+![BOM-Fields](../pics/BOM-Fields.png)
+
+Change the order of the fields to match the following:
+
+![BOM-Order](../pics/BOM-Order.png)
+
+Then click `Export`
+
+Open the `.csv` file (`<Project Name>.csv`) that was created and edit the following
+
 When using JLCPCB, use this order:
 >**NOTE** You could use DNP, or you could just delete all entries you don't want assembled
 
