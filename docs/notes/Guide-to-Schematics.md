@@ -9,6 +9,14 @@ This should be your first step (other than planning) for creating a PCB!
 - Click `Page Settings...`
 - Fill in the rest!
 
+Click on this button
+
+![Schematic-Page-Button](../pics/Schematic-Page-Button.png)
+
+And Fill in these properties
+
+![Schematic-Page-Setup](../pics/Schematic-Page-Setup.png)
+
 ## Coloring Netclasses
 
 This section is how to color netclasses to look something like this!
