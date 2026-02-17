@@ -40,7 +40,7 @@ This guide is for the routing and placement of the actual components!
 2. Use these values:
 ![Solder-Mask-Settings](../pics/Solder-Mask-Settings.png)
 
-#### Edit Design Rules COnstraints
+#### Edit Design Rules Constraints
 
 1. Under `Design Rules` click `Constraints`
 
