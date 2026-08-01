@@ -533,4 +533,15 @@
 		(uuid "73f17f98-72c8-4d48-aa79-a3b34e22c75e")
 	)
 	(embedded_fonts no)
+	(model "/home/aaron/Documents/GitHub/KiCAD-Library/CAD/DB128L.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
