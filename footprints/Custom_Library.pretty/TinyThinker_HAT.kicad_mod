@@ -245,10 +245,10 @@
 		(end -14.31 31.79)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "2a6278e5-d0b6-4b7f-b5ee-1d2450dd56ef")
 	)
 	(fp_rect
@@ -256,10 +256,10 @@
 		(end -5.66 18.84)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "830443a3-6bba-4d3e-b97b-41f017da70b0")
 	)
 	(fp_rect
@@ -267,10 +267,10 @@
 		(end -1.01 18.84)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "4ac524b7-1f44-49a7-9bf1-39f681cd2c01")
 	)
 	(fp_rect
@@ -278,10 +278,10 @@
 		(end -1.46 7.69)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "efef05e6-8004-4d52-a27e-f02d4a669a2d")
 	)
 	(fp_rect
@@ -289,10 +289,10 @@
 		(end -7.585 -2.885)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "61711a90-b532-4269-89d4-a24f8c872c9e")
 	)
 	(fp_rect
@@ -300,10 +300,10 @@
 		(end -4.76 -25.66)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "dc140279-572e-4405-9b6c-5c7ca3b544ba")
 	)
 	(fp_rect
@@ -311,10 +311,10 @@
 		(end -0.66 32.34)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "025c18b8-3886-44e1-8b74-217c7eb40844")
 	)
 	(fp_line
@@ -584,7 +584,7 @@
 	(fp_text user "Polar Robotics"
 		(at -11.71 10.94 90)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "38baadcc-f762-4b39-b189-68ecf245e6b4")
 		(effects
 			(font
@@ -598,7 +598,7 @@
 	(fp_text user "USB"
 		(at 8.29 -29.36 90)
 		(unlocked yes)
-		(layer "F.SilkS" knockout)
+		(layer "Cmts.User" knockout)
 		(uuid "431c7264-26f3-467a-aaf0-f3e804dbd215")
 		(effects
 			(font
@@ -611,7 +611,7 @@
 	(fp_text user "RESET"
 		(at -1.91 32.04 90)
 		(unlocked yes)
-		(layer "F.SilkS" knockout)
+		(layer "Cmts.User" knockout)
 		(uuid "62597de6-a98e-4637-a89b-81da2417b18b")
 		(effects
 			(font
@@ -624,7 +624,7 @@
 	(fp_text user "Tiny Thinker"
 		(at -14.96 11.19 90)
 		(unlocked yes)
-		(layer "F.SilkS")
+		(layer "Cmts.User")
 		(uuid "64ae5158-c222-48b4-a4de-aa9f973daa5e")
 		(effects
 			(font
@@ -638,7 +638,7 @@
 	(fp_text user "PWR"
 		(at 4.49 19.14 90)
 		(unlocked yes)
-		(layer "F.SilkS" knockout)
+		(layer "Cmts.User" knockout)
 		(uuid "6f5bf68a-436c-4d52-a0ba-3d5536133d30")
 		(effects
 			(font
@@ -651,7 +651,7 @@
 	(fp_text user "USER\n"
 		(at -5.689263 19.022377 90)
 		(unlocked yes)
-		(layer "F.SilkS" knockout)
+		(layer "Cmts.User" knockout)
 		(uuid "868e29ee-cb6f-4042-910a-1f955647ab95")
 		(effects
 			(font
@@ -664,7 +664,7 @@
 	(fp_text user "HSE"
 		(at 7.99 7.94 90)
 		(unlocked yes)
-		(layer "F.SilkS" knockout)
+		(layer "Cmts.User" knockout)
 		(uuid "ded4ec2a-477e-4bb7-b62b-7e0c0b10bd21")
 		(effects
 			(font
@@ -677,7 +677,7 @@
 	(fp_text user "BOOT"
 		(at 11.29 32.64 90)
 		(unlocked yes)
-		(layer "F.SilkS" knockout)
+		(layer "Cmts.User" knockout)
 		(uuid "e6972a78-60c3-4b6b-9828-add86621f3e0")
 		(effects
 			(font
@@ -690,7 +690,7 @@
 	(fp_text user "STM32F4"
 		(at 8.19 -6.36 90)
 		(unlocked yes)
-		(layer "F.SilkS" knockout)
+		(layer "Cmts.User" knockout)
 		(uuid "ec250623-3ce6-495f-b96b-26ab6c6d45b3")
 		(effects
 			(font
